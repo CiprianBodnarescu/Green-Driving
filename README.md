@@ -8,4 +8,4 @@ Pentru utilizarea corecta a programului trebuie sa urmariti urmatorii pasi:
 1. Citirea autovehiculelor din fisierul auto.txt pentru a popula lista de autovehicule.
 2. Citirea restrictiilor din fisierul geofence.txt pentru a popula lista de restrictii.
 3. In cazul in care fisierele din care doriti sa fie citite datele sunt diferite fata de cele mentionate mai sus, trebuie sa aveti grija ca structura datelor sa corespunda cu structura din fisierele implicite si sa dati calea completa catre ele.
-4. Pentru a analiza cat de ecologic este un autovehicul, apasati optiunea corespunzatoare aceestei comenzi.
+4. Pentru a analiza cat de ecologic este un autovehicul, apasati optiunea corespunzatoare acestei comenzi.
