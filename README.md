@@ -1,7 +1,7 @@
 Green Driving este un proiect prin care se verifica daca un autovehicul citit din fisier este condus ecologic sau nu, folosind cele trei fisiere text : auto.txt, geofence.txt, telematics.txt.
 
 auto.txt este fisierul din care se citesc datele despre toate autovehiculele din lista.
-geofence.txt contine restrictiile verzi sau rosii care sunt optime, respectiv plouante, iar ele pot lua forma unui cerc sau dreptunghi.
+geofence.txt contine restrictiile verzi sau rosii care sunt optime, respectiv poluante, iar ele pot lua forma unui cerc sau dreptunghi.
 telematics.txt reprezinta fisierul care contine toate coordonatele prin care un anumit autovehicul se deplaseaza.
 
 Pentru utilizarea corecta a programului trebuie sa urmariti urmatorii pasi:
